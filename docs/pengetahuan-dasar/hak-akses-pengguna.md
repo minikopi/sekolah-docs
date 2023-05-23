@@ -27,8 +27,8 @@ Index hak akses tiap pengguna sistem.
 | Biaya | ❌ | ✅ | ❌ | ❌ |
 | Dompet | ❌ | ✅ | ❌ | ❌ |
 | Tipe Pembayaran | ❌ | ✅ | ❌ | ❌ |
-| Persetujuan Biaya | ❌ | ✅ | ❌ | ❌ |
-| Persetujuan Pengeluaran Biaya | ❌ | ✅ | ❌ | ❌ |
+| Persetujuan Biaya |  | ✅ |  |  |
+| Persetujuan Pengeluaran Biaya |  | ✅ |  |  |
 
 #### Sekolah
 
@@ -38,13 +38,94 @@ Index hak akses tiap pengguna sistem.
 | Tahun Akademik | ❌ | ✅ | ❌ | ❌ |
 | Data Guru | ❌ | ✅ | ❌ | ❌ |
 | Data Siswa | ❌ | ✅ | ❌ | ❌ |
+| Ruang Kelas | ❌ | ✅ | ❌ | ❌ |
 | Rombongan Belajar | ❌ | ✅ | ❌ | ❌ |
-| Guru Kelas | ❌ | ✅ | ❌ | ❌ |
+| Rombongan Guru | ❌ | ✅ | ❌ | ❌ |
 
+#### Transaksi
 
-<!-- | namaAkses | ✅❌ | ✅❌ | ✅❌ | ✅❌ | -->
+| Hak Akses | Tulis | Baca | Ubah | Hapus |
+| :-------- | :---: | :--: | :--: | :---: |
+| Invoice | ❌ | ❌ | ❌ | ❌ |
+| Pembayaran Sekolah | ❌ | ❌ | ❌ | ❌ |
+| Pengeluaran Biaya | ❌ | ❌ | ❌ | ❌ |
 
-<!-- | namaAkses | ✅❌ | ✅❌ | ✅❌ | ✅❌ | -->
-<!-- | namaAkses | ✅❌ | ✅❌ | ✅❌ | ✅❌ | -->
-<!-- | namaAkses | ✅❌ | ✅❌ | ✅❌ | ✅❌ | -->
-<!-- | namaAkses | ✅❌ | ✅❌ | ✅❌ | ✅❌ | -->
+#### Laporan
+
+| Hak Akses | Baca|
+| :-------- | :---: |
+| Invoice | ✅ |
+| Pembayaran Sekolah | ✅ |
+| Pengeluaran Biaya | ✅ |
+| Keuangan Sekolah | ✅ |
+| Siswa | ✅ |
+
+### Kepala Sekolah
+
+#### Administrasi
+
+| Hak Akses | Tulis | Baca | Ubah | Hapus |
+| :-------- | :---: | :--: | :--: | :---: |
+| Pengguna | ❌ | ❌ | ❌ | ❌ |
+| Informasi Sekolah |  | ✅ | ✅ |  |
+
+#### Keuangan
+
+| Hak Akses | Tulis | Baca | Ubah | Hapus | Persetujuan |
+| :-------- | :---: | :--: | :--: | :---: | :---: |
+| Tipe Biaya | ❌ | ✅ | ❌ | ❌ |
+| Biaya | ❌ | ✅ | ❌ | ❌ |
+| Dompet | ❌ | ✅ | ❌ | ❌ |
+| Tipe Pembayaran | ❌ | ✅ | ❌ | ❌ |
+| Persetujuan Biaya |  | ✅ |  |  | ✅ |
+| Persetujuan Pengeluaran Biaya |  | ✅ |  |  | ✅ |
+
+#### Sekolah
+
+| Hak Akses | Tulis | Baca | Ubah | Hapus |
+| :-------- | :---: | :--: | :--: | :---: |
+| Tingkatan | ❌ | ✅ | ❌ | ❌ |
+| Tahun Akademik | ❌ | ✅ | ❌ | ❌ |
+| Data Guru | ❌ | ✅ | ❌ | ❌ |
+| Data Siswa | ❌ | ✅ | ❌ | ❌ |
+| Ruang Kelas | ❌ | ✅ | ❌ | ❌ |
+| Rombongan Belajar | ❌ | ✅ | ❌ | ❌ |
+| Rombongan Guru | ❌ | ✅ | ❌ | ❌ |
+
+#### Transaksi
+
+| Hak Akses | Tulis | Baca | Ubah | Hapus |
+| :-------- | :---: | :--: | :--: | :---: |
+| Invoice | ❌ | ✅ | ❌ | ❌ |
+| Pembayaran Sekolah | ❌ | ❌ | ❌ | ❌ |
+| Pengeluaran Biaya | ❌ | ✅ | ❌ | ❌ |
+
+#### Laporan
+
+| Hak Akses | Baca|
+| :-------- | :---: |
+| Invoice | ✅ |
+| Pembayaran Sekolah | ✅ |
+| Pengeluaran Biaya | ✅ |
+| Keuangan Sekolah | ✅ |
+| Siswa | ✅ |
+
+### Tata Usaha
+
+#### Administrasi
+
+| Hak Akses | Tulis | Baca | Ubah | Hapus |
+| :-------- | :---: | :--: | :--: | :---: |
+| Pengguna | ✅ | ✅ | ✅ | ✅ |
+| Informasi Sekolah |  | ✅ | ✅ |  |
+
+#### Keuangan
+
+| Hak Akses | Tulis | Baca | Ubah | Hapus | Persetujuan |
+| :-------- | :---: | :--: | :--: | :---: | :---: |
+| Tipe Biaya | ❌ | ✅ | ❌ | ❌ |
+| Biaya | ❌ | ✅ | ❌ | ❌ |
+| Dompet | ❌ | ✅ | ❌ | ❌ |
+| Tipe Pembayaran | ❌ | ✅ | ❌ | ❌ |
+| Persetujuan Biaya |  | ✅ |  |  | ✅ |
+| Persetujuan Pengeluaran Biaya |  | ✅ |  |  | ✅ |

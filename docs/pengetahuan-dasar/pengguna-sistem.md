@@ -20,9 +20,9 @@ Bertugas mengawasi operasional sistem, memastikan fungsi yang lancar dan memberi
 
 Mengelola data dan informasi sekolah, termasuk data pengguna role lainnya, serta memantau seluruh data yang ada.
 
-### Yayasan
+<!-- ### Yayasan
 
-Mengelola data yayasan/organisasi pendukung sekolah, termasuk data donatur, kegiatan penggalangan dana, dan laporan keuangan.
+Mengelola data yayasan/organisasi pendukung sekolah, termasuk data donatur, kegiatan penggalangan dana, dan laporan keuangan. -->
 
 ### Kepala Sekolah
 
