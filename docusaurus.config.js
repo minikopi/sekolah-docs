@@ -76,7 +76,6 @@ const config = {
             position: "left",
             label: "Dokumentasi",
           },
-          { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/minikopi/sekolah",
             label: "GitHub",
