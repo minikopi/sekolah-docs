@@ -91,7 +91,7 @@ const config = {
             items: [
               {
                 label: "Tutorial",
-                to: "/docs/pengetahuan-dasar",
+                to: "/docs/pengetahuan-dasar/pengenalan-sistem",
               },
             ],
           },
