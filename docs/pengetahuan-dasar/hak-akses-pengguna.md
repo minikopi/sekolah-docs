@@ -1,131 +1,178 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
 
 # Hak Akses Pengguna
 
-Index hak akses tiap pengguna sistem.
+Index hak akses tiap pengguna sistem sekolah.
 
-## Hak Akses Pengguna
+## Hak Akses Pengguna Fitur
 
-<!-- | namaAkses | ✅❌ | ✅❌ | ✅❌ | ✅❌ | -->
+### Administrasi
 
-### Admin Sekolah
+| Fitur               | Super Admin | Ops Admin | Admin Sekolah | Tata Usaha | Bendahara | Kepala Sekolah |
+| ------------------- | ----------- | --------- | ------------- | ---------- | --------- | -------------- |
+| **Sekolah**         |
+| Tulis               | ✅          | ❌        | ❌            | ❌         | ❌        | ❌             |
+| Baca                | ✅          | ✅        | ❌            | ❌         | ❌        | ❌             |
+| Ubah                | ✅          | ❌        | ❌            | ❌         | ❌        | ❌             |
+| Hapus               | ✅          | ❌        | ❌            | ❌         | ❌        | ❌             |
+| **Profile Sekolah** |
+| Tulis               | ❌          | ❌        | ❌            | ❌         | ❌        | ❌             |
+| Baca                | ❌          | ❌        | ✅            | ✅         | ✅        | ✅             |
+| Ubah                | ❌          | ❌        | ✅            | ✅         | ✅        | ✅             |
+| Hapus               | ❌          | ❌        | ❌            | ❌         | ❌        | ❌             |
+| **Pengguna**        |
+| Tulis               | ✅          | ✅        | ✅            | ❌         | ✅        | ❌             |
+| Baca                | ✅          | ✅        | ✅            | ✅         | ✅        | ✅             |
+| Ubah                | ✅          | ✅        | ✅            | ❌         | ✅        | ❌             |
+| Hapus               | ✅          | ✅        | ✅            | ❌         | ❌        | ❌             |
 
-#### Administrasi
+### Sekolah
 
-| Hak Akses | Tulis | Baca | Ubah | Hapus |
-| :-------- | :---: | :--: | :--: | :---: |
-| Pengguna | ✅ | ✅ | ✅ | ✅ |
-| Informasi Sekolah |  | ✅ | ✅ |  |
+| Fitur                    | Super Admin | Ops Admin | Admin Sekolah | Tata Usaha | Bendahara | Kepala Sekolah |
+| ------------------------ | ----------- | --------- | ------------- | ---------- | --------- | -------------- |
+| **Tahun Akademik**       |
+| Tulis                    | ✅          | ✅        | ❌            | ✅         | ❌        | ❌             |
+| Baca                     | ✅          | ✅        | ✅            | ✅         | ✅        | ✅             |
+| Ubah                     | ✅          | ✅        | ❌            | ✅         | ❌        | ❌             |
+| Hapus                    | ✅          | ✅        | ❌            | ✅         | ❌        | ❌             |
+| **Tingkatan**            |
+| Tulis                    | ✅          | ✅        | ❌            | ✅         | ❌        | ❌             |
+| Baca                     | ✅          | ✅        | ✅            | ✅         | ✅        | ✅             |
+| Ubah                     | ✅          | ✅        | ❌            | ✅         | ❌        | ❌             |
+| Hapus                    | ✅          | ✅        | ❌            | ✅         | ❌        | ❌             |
+| **Ruang kelas**          |
+| Tulis                    | ✅          | ✅        | ❌            | ✅         | ❌        | ❌             |
+| Baca                     | ✅          | ✅        | ✅            | ✅         | ✅        | ✅             |
+| Ubah                     | ✅          | ✅        | ❌            | ✅         | ❌        | ❌             |
+| Hapus                    | ✅          | ✅        | ❌            | ✅         | ❌        | ❌             |
+| **Data Siswa**           |
+| Tulis                    | ✅          | ✅        | ❌            | ✅         | ✅        | ❌             |
+| Baca                     | ✅          | ✅        | ✅            | ✅         | ✅        | ✅             |
+| Ubah                     | ✅          | ✅        | ❌            | ✅         | ✅        | ❌             |
+| Hapus                    | ✅          | ✅        | ❌            | ✅         | ❌        | ❌             |
+| Import                   | ✅          | ✅        | ❌            | ✅         | ✅        | ❌             |
+| Detail                   | ✅          | ✅        | ❌            | ✅         | ❌        | ❌             |
+| Restore                  | ✅          | ✅        | ❌            | ❌         | ❌        | ❌             |
+| **Data Staff/Guru**      |
+| Tulis                    | ✅          | ✅        | ❌            | ✅         | ✅        | ❌             |
+| Baca                     | ✅          | ✅        | ✅            | ✅         | ✅        | ✅             |
+| Ubah                     | ✅          | ✅        | ❌            | ✅         | ✅        | ❌             |
+| Hapus                    | ✅          | ✅        | ❌            | ✅         | ✅        | ❌             |
+| Detail                   | ✅          | ✅        | ❌            | ✅         | ✅        | ❌             |
+| **Rombongan Belajar**    |
+| Tulis                    | ✅          | ✅        | ❌            | ✅         | ❌        | ❌             |
+| Baca                     | ✅          | ✅        | ✅            | ✅         | ✅        | ✅             |
+| Ubah                     | ✅          | ✅        | ❌            | ✅         | ❌        | ❌             |
+| Hapus                    | ✅          | ✅        | ❌            | ✅         | ❌        | ❌             |
+| **Rombongan Staff/Guru** |
+| Tulis                    | ✅          | ✅        | ❌            | ✅         | ❌        | ❌             |
+| Baca                     | ✅          | ✅        | ✅            | ✅         | ✅        | ✅             |
+| Ubah                     | ✅          | ✅        | ❌            | ✅         | ❌        | ❌             |
+| Hapus                    | ✅          | ✅        | ❌            | ✅         | ❌        | ❌             |
 
-#### Keuangan
+### Keuangan Master
 
-| Hak Akses | Tulis | Baca | Ubah | Hapus |
-| :-------- | :---: | :--: | :--: | :---: |
-| Tipe Biaya | ❌ | ✅ | ❌ | ❌ |
-| Biaya | ❌ | ✅ | ❌ | ❌ |
-| Dompet | ❌ | ✅ | ❌ | ❌ |
-| Tipe Pembayaran | ❌ | ✅ | ❌ | ❌ |
-| Persetujuan Biaya |  | ✅ |  |  |
-| Persetujuan Pengeluaran Biaya |  | ✅ |  |  |
+| Fitur               | Super Admin | Ops Admin | Admin Sekolah | Tata Usaha | Bendahara | Kepala Sekolah |
+| ------------------- | ----------- | --------- | ------------- | ---------- | --------- | -------------- |
+| **Tipe Biaya**      |
+| Tulis               | -           | -         | -             | -          | -         | -              |
+| Baca                | -           | -         | -             | -          | -         | -              |
+| Ubah                | -           | -         | -             | -          | -         | -              |
+| Hapus               | -           | -         | -             | -          | -         | -              |
+| **Biaya**           |
+| Tulis               | -           | -         | -             | -          | -         | -              |
+| Baca                | -           | -         | -             | -          | -         | -              |
+| Ubah                | -           | -         | -             | -          | -         | -              |
+| Hapus               | -           | -         | -             | -          | -         | -              |
+| **Dompet**          |
+| Tulis               | -           | -         | -             | -          | -         | -              |
+| Baca                | -           | -         | -             | -          | -         | -              |
+| Ubah                | -           | -         | -             | -          | -         | -              |
+| Hapus               | -           | -         | -             | -          | -         | -              |
+| **Tipe Pembayaran** |
+| Tulis               | -           | -         | -             | -          | -         | -              |
+| Baca                | -           | -         | -             | -          | -         | -              |
+| Ubah                | -           | -         | -             | -          | -         | -              |
+| Hapus               | -           | -         | -             | -          | -         | -              |
 
-#### Sekolah
+### Keuangan Persetujuan
 
-| Hak Akses | Tulis | Baca | Ubah | Hapus |
-| :-------- | :---: | :--: | :--: | :---: |
-| Tingkatan | ❌ | ✅ | ❌ | ❌ |
-| Tahun Akademik | ❌ | ✅ | ❌ | ❌ |
-| Data Guru | ❌ | ✅ | ❌ | ❌ |
-| Data Siswa | ❌ | ✅ | ❌ | ❌ |
-| Ruang Kelas | ❌ | ✅ | ❌ | ❌ |
-| Rombongan Belajar | ❌ | ✅ | ❌ | ❌ |
-| Rombongan Guru | ❌ | ✅ | ❌ | ❌ |
+| Fitur                 | Super Admin | Ops Admin | Admin Sekolah | Tata Usaha | Bendahara | Kepala Sekolah |
+| --------------------- | ----------- | --------- | ------------- | ---------- | --------- | -------------- |
+| **Biaya**             |
+| Tulis                 | -           | -         | -             | -          | -         | -              |
+| Baca                  | -           | -         | -             | -          | -         | -              |
+| Ubah                  | -           | -         | -             | -          | -         | -              |
+| Hapus                 | -           | -         | -             | -          | -         | -              |
+| **Pengeluaran Biaya** |
+| Tulis                 | -           | -         | -             | -          | -         | -              |
+| Baca                  | -           | -         | -             | -          | -         | -              |
+| Ubah                  | -           | -         | -             | -          | -         | -              |
+| Hapus                 | -           | -         | -             | -          | -         | -              |
 
-#### Transaksi
+### Transaksi Pemasukan
 
-| Hak Akses | Tulis | Baca | Ubah | Hapus |
-| :-------- | :---: | :--: | :--: | :---: |
-| Invoice | ❌ | ❌ | ❌ | ❌ |
-| Pembayaran Sekolah | ❌ | ❌ | ❌ | ❌ |
-| Pengeluaran Biaya | ❌ | ❌ | ❌ | ❌ |
+| Fitur                  | Super Admin | Ops Admin | Admin Sekolah | Tata Usaha | Bendahara | Kepala Sekolah |
+| ---------------------- | ----------- | --------- | ------------- | ---------- | --------- | -------------- |
+| **Invoice**            |
+| Tulis                  | -           | -         | -             | -          | -         | -              |
+| Baca                   | -           | -         | -             | -          | -         | -              |
+| Ubah                   | -           | -         | -             | -          | -         | -              |
+| Hapus                  | -           | -         | -             | -          | -         | -              |
+| **Pembayaran Sekolah** |
+| Tulis                  | -           | -         | -             | -          | -         | -              |
+| Baca                   | -           | -         | -             | -          | -         | -              |
+| Ubah                   | -           | -         | -             | -          | -         | -              |
+| Hapus                  | -           | -         | -             | -          | -         | -              |
 
-#### Laporan
+### Transaksi Pengeluaran
 
-| Hak Akses | Baca|
-| :-------- | :---: |
-| Invoice | ✅ |
-| Pembayaran Sekolah | ✅ |
-| Pengeluaran Biaya | ✅ |
-| Keuangan Sekolah | ✅ |
-| Siswa | ✅ |
+| Fitur                 | Super Admin | Ops Admin | Admin Sekolah | Tata Usaha | Bendahara | Kepala Sekolah |
+| --------------------- | ----------- | --------- | ------------- | ---------- | --------- | -------------- |
+| **Pengeluaran Biaya** |
+| Tulis                 | -           | -         | -             | -          | -         | -              |
+| Baca                  | -           | -         | -             | -          | -         | -              |
+| Ubah                  | -           | -         | -             | -          | -         | -              |
+| Hapus                 | -           | -         | -             | -          | -         | -              |
 
-### Kepala Sekolah
+### Laporan Pemasukan
 
-#### Administrasi
+| Fitur                  | Super Admin | Ops Admin | Admin Sekolah | Tata Usaha | Bendahara | Kepala Sekolah |
+| ---------------------- | ----------- | --------- | ------------- | ---------- | --------- | -------------- |
+| **Invoice**            |
+| Tulis                  | -           | -         | -             | -          | -         | -              |
+| Baca                   | -           | -         | -             | -          | -         | -              |
+| Ubah                   | -           | -         | -             | -          | -         | -              |
+| Hapus                  | -           | -         | -             | -          | -         | -              |
+| **Pembayaran Sekolah** |
+| Tulis                  | -           | -         | -             | -          | -         | -              |
+| Baca                   | -           | -         | -             | -          | -         | -              |
+| Ubah                   | -           | -         | -             | -          | -         | -              |
+| Hapus                  | -           | -         | -             | -          | -         | -              |
 
-| Hak Akses | Tulis | Baca | Ubah | Hapus |
-| :-------- | :---: | :--: | :--: | :---: |
-| Pengguna | ❌ | ❌ | ❌ | ❌ |
-| Informasi Sekolah |  | ✅ | ✅ |  |
+### Laporan Pengeluaran
 
-#### Keuangan
+| Fitur                 | Super Admin | Ops Admin | Admin Sekolah | Tata Usaha | Bendahara | Kepala Sekolah |
+| --------------------- | ----------- | --------- | ------------- | ---------- | --------- | -------------- |
+| **Pengeluaran Biaya** |
+| Tulis                 | -           | -         | -             | -          | -         | -              |
+| Baca                  | -           | -         | -             | -          | -         | -              |
+| Ubah                  | -           | -         | -             | -          | -         | -              |
+| Hapus                 | -           | -         | -             | -          | -         | -              |
 
-| Hak Akses | Tulis | Baca | Ubah | Hapus | Persetujuan |
-| :-------- | :---: | :--: | :--: | :---: | :---: |
-| Tipe Biaya | ❌ | ✅ | ❌ | ❌ |
-| Biaya | ❌ | ✅ | ❌ | ❌ |
-| Dompet | ❌ | ✅ | ❌ | ❌ |
-| Tipe Pembayaran | ❌ | ✅ | ❌ | ❌ |
-| Persetujuan Biaya |  | ✅ |  |  | ✅ |
-| Persetujuan Pengeluaran Biaya |  | ✅ |  |  | ✅ |
+### Laporan Lainnya
 
-#### Sekolah
-
-| Hak Akses | Tulis | Baca | Ubah | Hapus |
-| :-------- | :---: | :--: | :--: | :---: |
-| Tingkatan | ❌ | ✅ | ❌ | ❌ |
-| Tahun Akademik | ❌ | ✅ | ❌ | ❌ |
-| Data Guru | ❌ | ✅ | ❌ | ❌ |
-| Data Siswa | ❌ | ✅ | ❌ | ❌ |
-| Ruang Kelas | ❌ | ✅ | ❌ | ❌ |
-| Rombongan Belajar | ❌ | ✅ | ❌ | ❌ |
-| Rombongan Guru | ❌ | ✅ | ❌ | ❌ |
-
-#### Transaksi
-
-| Hak Akses | Tulis | Baca | Ubah | Hapus |
-| :-------- | :---: | :--: | :--: | :---: |
-| Invoice | ❌ | ✅ | ❌ | ❌ |
-| Pembayaran Sekolah | ❌ | ❌ | ❌ | ❌ |
-| Pengeluaran Biaya | ❌ | ✅ | ❌ | ❌ |
-
-#### Laporan
-
-| Hak Akses | Baca|
-| :-------- | :---: |
-| Invoice | ✅ |
-| Pembayaran Sekolah | ✅ |
-| Pengeluaran Biaya | ✅ |
-| Keuangan Sekolah | ✅ |
-| Siswa | ✅ |
-
-### Tata Usaha
-
-#### Administrasi
-
-| Hak Akses | Tulis | Baca | Ubah | Hapus |
-| :-------- | :---: | :--: | :--: | :---: |
-| Pengguna | ✅ | ✅ | ✅ | ✅ |
-| Informasi Sekolah |  | ✅ | ✅ |  |
-
-#### Keuangan
-
-| Hak Akses | Tulis | Baca | Ubah | Hapus | Persetujuan |
-| :-------- | :---: | :--: | :--: | :---: | :---: |
-| Tipe Biaya | ❌ | ✅ | ❌ | ❌ |
-| Biaya | ❌ | ✅ | ❌ | ❌ |
-| Dompet | ❌ | ✅ | ❌ | ❌ |
-| Tipe Pembayaran | ❌ | ✅ | ❌ | ❌ |
-| Persetujuan Biaya |  | ✅ |  |  | ✅ |
-| Persetujuan Pengeluaran Biaya |  | ✅ |  |  | ✅ |
+| Fitur                | Super Admin | Ops Admin | Admin Sekolah | Tata Usaha | Bendahara | Kepala Sekolah |
+| -------------------- | ----------- | --------- | ------------- | ---------- | --------- | -------------- |
+| **Keuangan Sekolah** |
+| Tulis                | -           | -         | -             | -          | -         | -              |
+| Baca                 | -           | -         | -             | -          | -         | -              |
+| Ubah                 | -           | -         | -             | -          | -         | -              |
+| Hapus                | -           | -         | -             | -          | -         | -              |
+| **Siswa**            |
+| Tulis                | -           | -         | -             | -          | -         | -              |
+| Baca                 | -           | -         | -             | -          | -         | -              |
+| Ubah                 | -           | -         | -             | -          | -         | -              |
+| Hapus                | -           | -         | -             | -          | -         | -              |
