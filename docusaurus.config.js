@@ -91,7 +91,7 @@ const config = {
             items: [
               {
                 label: "Tutorial",
-                to: "/docs/introduction",
+                to: "/docs/pengetahuan-dasar",
               },
             ],
           },
@@ -115,10 +115,6 @@ const config = {
           {
             title: "More",
             items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
               {
                 label: "GitHub",
                 href: "https://github.com/minikopi/sekolah",
