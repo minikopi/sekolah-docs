@@ -131,51 +131,30 @@ Index hak akses sistem sekolah tiap pengguna.
 | Publikasi              |      ✅       |     ✅     |    ✅     |       ❌       |
 | Bayar                  |      ✅       |     ✅     |    ✅     |       ❌       |
 | **Pembayaran Sekolah** |    **AS**     |   **TU**   |  **BD**   |     **KS**     |
-| Tulis                  |       -       |     -      |     -     |       -        |
-| Baca                   |       -       |     -      |     -     |       -        |
-| Ubah                   |       -       |     -      |     -     |       -        |
-| Hapus                  |       -       |     -      |     -     |       -        |
+| Tulis                  |      ✅       |     ❌     |    ✅     |       ❌       |
+| Baca                   |      ✅       |     ❌     |    ✅     |       ❌       |
+| Ubah                   |      ✅       |     ❌     |    ✅     |       ❌       |
+| Hapus                  |      ✅       |     ❌     |    ✅     |       ❌       |
 
 ### Pengeluaran
 
 | Fitur                 | Admin Sekolah | Tata Usaha | Bendahara | Kepala Sekolah |
 | --------------------- | :-----------: | :--------: | :-------: | :------------: |
 | **Pengeluaran Biaya** |    **AS**     |   **TU**   |  **BD**   |     **KS**     |
-| Tulis                 |       -       |     -      |     -     |       -        |
-| Baca                  |       -       |     -      |     -     |       -        |
-| Ubah                  |       -       |     -      |     -     |       -        |
-| Hapus                 |       -       |     -      |     -     |       -        |
+| Tulis                 |      ✅       |     ✅     |    ✅     |       ✅       |
+| Baca                  |      ✅       |     ✅     |    ✅     |       ✅       |
+| Ubah                  |      ✅       |     ✅     |    ✅     |       ✅       |
+| Hapus                 |      ✅       |     ✅     |    ✅     |       ✅       |
 
 ## Laporan
 
-### Pemasukan
-
 | Fitur              | Admin Sekolah | Tata Usaha | Bendahara | Kepala Sekolah |
 | ------------------ | :-----------: | :--------: | :-------: | :------------: |
+| **Pemasukan**      |
 | Invoice            |      ✅       |     ✅     |    ✅     |       ✅       |
-| Pembayaran Sekolah |    **AS**     |   **TU**   |  **BD**   |     **KS**     |
-
-### Pengeluaran
-
-| Fitur                 | Admin Sekolah | Tata Usaha | Bendahara | Kepala Sekolah |
-| --------------------- | :-----------: | :--------: | :-------: | :------------: |
-| **Pengeluaran Biaya** |    **AS**     |   **TU**   |  **BD**   |     **KS**     |
-| Tulis                 |       -       |     -      |     -     |       -        |
-| Baca                  |       -       |     -      |     -     |       -        |
-| Ubah                  |       -       |     -      |     -     |       -        |
-| Hapus                 |       -       |     -      |     -     |       -        |
-
-### Lainnya
-
-| Fitur                | Admin Sekolah | Tata Usaha | Bendahara | Kepala Sekolah |
-| -------------------- | :-----------: | :--------: | :-------: | :------------: |
-| **Keuangan Sekolah** |    **AS**     |   **TU**   |  **BD**   |     **KS**     |
-| Tulis                |       -       |     -      |     -     |       -        |
-| Baca                 |       -       |     -      |     -     |       -        |
-| Ubah                 |       -       |     -      |     -     |       -        |
-| Hapus                |       -       |     -      |     -     |       -        |
-| **Siswa**            |    **AS**     |   **TU**   |  **BD**   |     **KS**     |
-| Tulis                |       -       |     -      |     -     |       -        |
-| Baca                 |       -       |     -      |     -     |       -        |
-| Ubah                 |       -       |     -      |     -     |       -        |
-| Hapus                |       -       |     -      |     -     |       -        |
+| Pembayaran Sekolah |      ✅       |     ✅     |    ✅     |       ✅       |
+| **Pengeluaran**    |
+| Pengeluaran Biaya  |      ✅       |     ✅     |    ✅     |       ✅       |
+| **Lainnya**        |
+| Keuangan Sekolah   |      ✅       |     ✅     |    ✅     |       ✅       |
+| Siswa              |      ✅       |     ✅     |    ✅     |       ✅       |
