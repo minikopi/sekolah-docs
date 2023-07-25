@@ -93,6 +93,7 @@ Index hak akses sistem sekolah tiap pengguna.
 | Ubah                |      ✅       |     ❌     |    ✅     |       ❌       |
 | Hapus               |      ✅       |     ❌     |    ✅     |       ❌       |
 | Top Up              |      ✅       |     ❌     |    ✅     |       ❌       |
+| Transfer            |      ✅       |     ❌     |    ✅     |       ❌       |
 | Log                 |      ✅       |     ❌     |    ✅     |       ✅       |
 | **Tipe Pembayaran** |    **AS**     |   **TU**   |  **BD**   |     **KS**     |
 | Tulis               |      ✅       |     ❌     |    ✅     |       ❌       |
