@@ -60,6 +60,7 @@ Index hak akses sistem sekolah tiap pengguna.
 | Ubah                     |      ✅       |     ✅     |    ❌     |       ❌       |
 | Hapus                    |      ✅       |     ✅     |    ❌     |       ❌       |
 | Detail                   |      ✅       |     ✅     |    ✅     |       ✅       |
+| Import                   |      ✅       |     ✅     |    ❌     |       ❌       |
 | **Rombongan Belajar**    |    **AS**     |   **TU**   |  **BD**   |     **KS**     |
 | Tulis                    |      ✅       |     ✅     |    ❌     |       ❌       |
 | Baca                     |      ✅       |     ✅     |    ✅     |       ✅       |
