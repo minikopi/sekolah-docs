@@ -97,6 +97,8 @@ Pada bagian **general** terdapat 14 poin berurutan yang **wajib diisi** seluruhn
 
 Nomor Pokok Sekolah Nasional, email dan NIK kepala sekolah, serta email dan NIK admin sekolah menjadi **_identifier_**.
 
+Nomor Pokok Sekolah Nasional bisa dicari dari halaman [Dapodik](https://dapo.kemdikbud.go.id/pencarian).
+
 :::
 
 ### Tingkatan
@@ -243,5 +245,7 @@ Pada bagian **data siswa** terdapat 26 poin berurutan yang **wajib diisi** selur
 :::caution PERHATIAN
 
 NIK, NIS, dan NISN menjadi **_identifier_**.
+
+NISN bisa dicari dari halaman [Dapodik](https://nisn.data.kemdikbud.go.id/index.php/Cindex/formcaribynama).
 
 :::
