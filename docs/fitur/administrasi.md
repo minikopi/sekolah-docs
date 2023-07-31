@@ -55,7 +55,11 @@ Setiap data pengguna terintegrasi dengan data staff, sehingga setiap pertambahan
 
 Ini adalah halaman khusus untuk Admin Sempoa untuk dapat meng-_import_ satu informasi penuh tentang sebuah sekolah.
 
-> Format file Excel-nya bisa diunduh dari [sini](/file/schools_import.xlsx).
+:::success TEMPLATE FILE EXCEL
+
+Format file Excel-nya bisa diunduh dari [sini](/file/schools_import.xlsx).
+
+:::
 
 Ada enam bagian/halaman pada file import tersebut, antara lain:
 
@@ -224,7 +228,7 @@ Pada bagian **data siswa** terdapat 26 poin berurutan yang **wajib diisi** selur
 | No Telp           | 081xxxxx                  | wajib                                       |
 | No KK             | 3989yyyy                  | wajib                                       |
 | **_NIK_**         | 3989zzzz                  | wajib                                       |
-| **_NISN_**        | 1234xxxx                  | wajib                                       |
+| NISN        | 1234xxxx                  | tidak wajib                                       |
 | **_NIS_**         | 5678yyyy                  | wajib                                       |
 | Nama Ayah         | Harjasa Parman            | wajib                                       |
 | Alamat Ayah       | Jl Diponegoro             | tidak wajib                                 |
@@ -244,7 +248,7 @@ Pada bagian **data siswa** terdapat 26 poin berurutan yang **wajib diisi** selur
 
 :::caution PERHATIAN
 
-NIK, NIS, dan NISN menjadi **_identifier_**.
+NIK dan NIS menjadi **_identifier_**.
 
 NISN bisa dicari dari halaman [Dapodik](https://nisn.data.kemdikbud.go.id/index.php/Cindex/formcaribynama).
 
