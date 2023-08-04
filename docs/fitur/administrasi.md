@@ -119,11 +119,11 @@ Berikut simulasinya:
 | Tingkat Kelas | Kelas              |
 | ------------- | ------------------ |
 | Kelas 1       | 1 A, 1 B, 1 C, 1 D |
-| Kelas 2       | 1 A, 1 B, 1 C, 1 D |
-| Kelas 3       | 1 A, 1 B, 1 C, 1 D |
-| Kelas 4       | 1 A, 1 B, 1 C      |
-| Kelas 5       | 1 A, 1 B, 1 C      |
-| Kelas 6       | 1 A, 1 B           |
+| Kelas 2       | 2 A, 2 B, 2 C, 2 D |
+| Kelas 3       | 3 A, 3 B, 3 C, 3 D |
+| Kelas 4       | 4 A, 4 B, 4 C      |
+| Kelas 5       | 5 A, 5 B, 5 C      |
+| Kelas 6       | 6 A, 6 B           |
 
 :::caution PERHATIAN
 

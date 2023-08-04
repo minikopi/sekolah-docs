@@ -9,6 +9,8 @@ description: Panel manajemen keuangan sekolah
 
 ### Tipe Uang Sekolah
 
+![Tipe Uang Sekolah](/img/keuangan/tipe-uang-sekolah.png)
+
 ### Uang Sekolah
 
 ### Dompet
