@@ -146,7 +146,7 @@ Pada bagian **data guru & staff** terdapat 9 poin berurutan yang **wajib diisi**
 | Jenis Kelamin | P                                                     | wajib <br /> opsi: L / P        |
 | Agama         | Katolik                                               | wajib                           |
 | No KK         | AABBCCEEFFGGHHHI                                      | wajib                           |
-| Jabatan       | guru                                                  | tidak wajib                     |
+| Jabatan       | guru                                                  | wajib                           |
 
 :::caution PERHATIAN
 
@@ -217,39 +217,41 @@ Berikut simulasinya:
 
 Pada bagian **data siswa** terdapat 26 poin berurutan yang **wajib diisi** seluruhnya, kecuali beberapa, antara lain:
 
-| Kolom             | Contoh Data               | Keterangan                                  |
-| ----------------- | ------------------------- | ------------------------------------------- |
-| Nama              | Lukita Jamil              | wajib                                       |
-| Email             | lukita@gmail.com          | wajib                                       |
-| Jenis Kelamin     | L                         | wajib.<br />opsi: L / P                     |
-| Alamat            | Jalan Raya XYZ            | wajib                                       |
-| Tanggal Lahir     | dd-mm-yyy                 | wajib                                       |
-| Agama             | Katolik                   | wajib                                       |
-| No Telp           | 081xxxxx                  | wajib                                       |
-| No KK             | 3989yyyy                  | wajib                                       |
-| **_NIK_**         | 3989zzzz                  | wajib                                       |
-| NISN        | 1234xxxx                  | tidak wajib                                       |
-| **_NIS_**         | 5678yyyy                  | wajib                                       |
-| Nama Ayah         | Harjasa Parman            | wajib                                       |
-| Alamat Ayah       | Jl Diponegoro             | tidak wajib                                 |
-| Email Ayah        | harjasa.parman@gmail.com  | tidak wajib                                 |
-| No Telepon Ayah   | 0878xxxx                  | tidak wajib                                 |
-| Nama Ibu          | Hartati Parwati           | wajib                                       |
-| Alamat Ibu        | Jl Diponegoro             | tidak wajib                                 |
-| Email Ibu         | hartati.parwati@gmail.com | tidak wajib                                 |
-| No Telp Ibu       | 0878xxxx                  | tidak wajib                                 |
-| Nama Wali         | Harjasa Parman            | tidak wajib                                 |
-| Alamat Wali       | Jl Diponegoro             | tidak wajib                                 |
-| Email Wali        | harjasa.parman@gmail.com  | tidak wajib                                 |
-| No Telp Wali      | 0878xxxx                  | tidak wajib                                 |
-| Kelas             | 1 A                       | wajib.<br />sesuai dengan data kelas.       |
-| Nominal           | 100000                    | wajib.<br />tanpa titik/koma.               |
-| Tipe Uang Sekolah | SPP                       | wajib.<br />sesuai dengan tipe uang sekolah |
+| Kolom             | Contoh Data               | Keterangan                                     |
+| ----------------- | ------------------------- | ---------------------------------------------- |
+| Nama              | Lukita Jamil              | wajib                                          |
+| Email             | lukita@gmail.com          | wajib                                          |
+| Jenis Kelamin     | L                         | wajib.<br />opsi: L / P                        |
+| Alamat            | Jalan Raya XYZ            | wajib                                          |
+| Tanggal Lahir     | dd-mm-yyy                 | wajib                                          |
+| Agama             | Katolik                   | wajib                                          |
+| No Telp           | 081xxxxx                  | wajib                                          |
+| No KK             | 3989yyyy                  | wajib                                          |
+| **_NIK_**         | 3989zzzz                  | wajib                                          |
+| NISN              | 1234xxxx                  | tidak wajib                                    |
+| **_NIS_**         | 5678yyyy                  | wajib                                          |
+| Nama Ayah         | Harjasa Parman            | wajib                                          |
+| Alamat Ayah       | Jl Diponegoro             | tidak wajib                                    |
+| Email Ayah        | harjasa.parman@gmail.com  | tidak wajib                                    |
+| No Telepon Ayah   | 0878xxxx                  | tidak wajib                                    |
+| Nama Ibu          | Hartati Parwati           | wajib                                          |
+| Alamat Ibu        | Jl Diponegoro             | tidak wajib                                    |
+| Email Ibu         | hartati.parwati@gmail.com | tidak wajib                                    |
+| No Telp Ibu       | 0878xxxx                  | tidak wajib                                    |
+| Nama Wali         | Harjasa Parman            | tidak wajib                                    |
+| Alamat Wali       | Jl Diponegoro             | tidak wajib                                    |
+| Email Wali        | harjasa.parman@gmail.com  | tidak wajib                                    |
+| No Telp Wali      | 0878xxxx                  | tidak wajib                                    |
+| Kelas             | 1 A                       | wajib.<br />sesuai dengan data kelas.          |
+| Nominal           | 100000                    | opsional.<br />tanpa titik/koma.               |
+| Tipe Uang Sekolah | SPP                       | opsional.<br />sesuai dengan tipe uang sekolah |
 
 :::caution PERHATIAN
 
 NIK dan NIS menjadi **_identifier_**.
 
 NISN bisa dicari dari halaman [Dapodik](https://nisn.data.kemdikbud.go.id/index.php/Cindex/formcaribynama).
+
+Kolom **Nominal** dan **Tipe Uang Sekolah** diisi jika nominal bebannya berbeda dengan nominal dasar pada data **Tipe Uang Sekolah**
 
 :::
