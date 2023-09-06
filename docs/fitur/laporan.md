@@ -123,7 +123,7 @@ Masuk pada menu **Laporan -> Lainnya -> Keuangan Sekolah**
 
 :::
 
-- Jika pencarian laporan keuangan sekolah berhasil maka hasil laporan keuangan sekolah Anda akan muncul dalam bentuk datatable dan juga dapat mengekspor dalam bentuk excel.
+- Jika pencarian laporan keuangan sekolah berhasil maka hasil laporan keuangan sekolah Anda akan muncul dalam bentuk tabel dan juga dapat mengekspor dalam bentuk excel.
 
 ![Menu Keuangan Sekolah](/img/laporan/lainnya/keuangan-sekolah.png)
 

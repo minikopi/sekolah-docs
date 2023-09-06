@@ -26,7 +26,7 @@ Masuk pada menu **Transaksi -> Pemasukan -> Invoice**
 
 ![Menu Invoice](/img/transaksi/pemasukan/menu-invoice.png)
 
-- Pada halaman datatable tekan tombol **Tambah Invoice**
+- Pada tabel tekan tombol **Tambah Invoice**
 
 ![Menu Invoice](/img/transaksi/pemasukan/invoice.png)
 
@@ -45,13 +45,13 @@ Masuk pada menu **Transaksi -> Pemasukan -> Invoice**
 
 :::
 
-- Jika pembuatan entitas invoice berhasil maka data invoice Anda akan muncul pada baris datatable di menu invoice datatable dengan status draft.
+- Jika pembuatan entitas invoice berhasil maka data invoice Anda akan muncul pada baris tabel di menu invoice tabel dengan status draft.
 
 ![Menu Invoice](/img/transaksi/pemasukan/success-invoice_extended.png)
 
 ![Menu Invoice](/img/transaksi/pemasukan/success-invoice.png)
 
-- Jika ingin publikasi invoice yang telah dibuat, dengan tekan tombol **Terbitkan** pada tombol **Opsi -> Terbitkan**. Jika publikasi invoice berhasil maka data invoice Anda akan pada baris datatable di menu invoice datatable dengan status terbit.
+- Jika ingin publikasi invoice yang telah dibuat, dengan tekan tombol **Terbitkan** pada tombol **Opsi -> Terbitkan**. Jika publikasi invoice berhasil maka data invoice Anda akan pada baris tabel di menu invoice tabel dengan status terbit.
 
 ![Menu Invoice](/img/transaksi/pemasukan/publish-invoice.png)
 
@@ -59,7 +59,7 @@ Masuk pada menu **Transaksi -> Pemasukan -> Invoice**
 
 ![Menu Invoice](/img/transaksi/pemasukan/pay-invoice.png)
 
-- Jika pembayaran invoice berhasil maka data invoice Anda akan muncul pada baris datatable di menu invoice datatable dengan status pembayaran lunas.
+- Jika pembayaran invoice berhasil maka data invoice Anda akan muncul pada baris tabel di menu invoice tabel dengan status pembayaran lunas.
 
 ![Menu Invoice](/img/transaksi/pemasukan/payed-invoice.png)
 
@@ -81,7 +81,7 @@ Masuk pada menu **Transaksi -> Pemasukan -> Pembayaran Sekolah**
 
 :::
 
-- Jika pencarian entitas pembayaran sekolah berhasil maka data pembayaran sekolah Anda akan muncul pada baris datatable di menu pembayaran sekolah.
+- Jika pencarian entitas pembayaran sekolah berhasil maka data pembayaran sekolah Anda akan muncul pada baris tabel di menu pembayaran sekolah.
 
 ![Menu Pembayaran Sekolah](/img/transaksi/pemasukan/success-pembayaran-sekolah.png)
 
@@ -106,7 +106,7 @@ Masuk pada menu **Transaksi -> Pengeluaran -> Pengeluaran Biaya**
 
 ![Menu Pengeluaran Biaya](/img/transaksi/pengeluaran/menu-pengeluaran-biaya.png)
 
-- Pada halaman datatable tekan tombol **Tambah Pengeluaran Biaya**
+- Pada tabel tekan tombol **Tambah Pengeluaran Biaya**
 
 ![Menu Pengeluaran Biaya](/img/transaksi/pengeluaran/pengeluaran-biaya.png)
 
@@ -124,11 +124,11 @@ Masuk pada menu **Transaksi -> Pengeluaran -> Pengeluaran Biaya**
 
 :::
 
-- Jika pembuatan entitas pengeluaran biaya berhasil maka data pengeluaran biaya Anda akan muncul pada baris datatable di menu pengeluaran biaya.
+- Jika pembuatan entitas pengeluaran biaya berhasil maka data pengeluaran biaya Anda akan muncul pada baris tabel di menu pengeluaran biaya.
 
 ![Menu Pengeluaran Biaya](/img/transaksi/pengeluaran/success-pengeluaran-biaya.png)
 
-- Jika ingin publikasi pengeluaran biaya yang telah dibuat, dengan tekan tombol **Terbitkan** pada tombol **Opsi -> Terbitkan**. Jika publikasi pengeluaran biaya berhasil maka data pengeluaran biaya Anda akan pada baris datatable di menu pengeluaran biaya datatable dengan status pending.
+- Jika ingin publikasi pengeluaran biaya yang telah dibuat, dengan tekan tombol **Terbitkan** pada tombol **Opsi -> Terbitkan**. Jika publikasi pengeluaran biaya berhasil maka data pengeluaran biaya Anda akan pada baris tabel di menu pengeluaran biaya tabel dengan status pending.
 
 ![Menu Pengeluaran Biaya](/img/transaksi/pengeluaran/publish-pengeluaran-biaya.png)
 

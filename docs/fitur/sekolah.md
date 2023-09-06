@@ -27,7 +27,7 @@ Masuk pada menu **Sekolah -> Data Master -> Tahun Akademik**
 
 ![Menu Tahun Akademik](/img/sekolah/data-master/menu-tahun-akademik.png)
 
-- Pada halaman datatable tekan tombol **Tambah Tahun Akademik**
+- Pada tabel tekan tombol **Tambah Tahun Akademik**
 
 ![Menu Tahun Akademik](/img/sekolah/data-master/tahun-akademik.png)
 
@@ -42,7 +42,7 @@ Masuk pada menu **Sekolah -> Data Master -> Tahun Akademik**
 
 :::
 
-- Jika pembuatan entitas Tahun Akademik berhasil maka data tahun akademik Anda akan muncul pada baris datatable di menu tahun akademik.
+- Jika pembuatan entitas Tahun Akademik berhasil maka data tahun akademik Anda akan muncul pada baris tabel di menu tahun akademik.
 
 ![Menu Tahun Akademik](/img/sekolah/data-master/success-tahun-akademik.png)
 
@@ -54,7 +54,7 @@ Masuk pada menu **Sekolah -> Data Master -> Tingkatan**
 
 ![Menu Tingkatan](/img/sekolah/data-master/menu-tingkatan.png)
 
-- Pada halaman datatable tekan tombol **Tambah Tingkatan**
+- Pada tabel tekan tombol **Tambah Tingkatan**
 
 ![Menu Tingkatan](/img/sekolah/data-master/tingkatan.png)
 
@@ -68,7 +68,7 @@ Masuk pada menu **Sekolah -> Data Master -> Tingkatan**
 
 :::
 
-- Jika pembuatan entitas Tingkatan berhasil maka data tingkatan Anda akan muncul pada baris datatable di menu tingkatan.
+- Jika pembuatan entitas Tingkatan berhasil maka data tingkatan Anda akan muncul pada baris tabel di menu tingkatan.
 
 ![Menu Tingkatan](/img/sekolah/data-master/success-tingkatan.png)
 
@@ -80,7 +80,7 @@ Masuk pada menu **Sekolah -> Data Master -> Ruang Kelas**
 
 ![Menu Ruang Kelas](/img/sekolah/data-master/menu-ruang-kelas.png)
 
-- Pada halaman datatable tekan tombol **Tambah Ruang Kelas**
+- Pada tabel tekan tombol **Tambah Ruang Kelas**
 
 ![Menu Ruang Kelas](/img/sekolah/data-master/ruang-kelas.png)
 
@@ -96,7 +96,7 @@ Masuk pada menu **Sekolah -> Data Master -> Ruang Kelas**
 
 :::
 
-- Jika pembuatan entitas Ruang Kelas berhasil maka data ruang kelas Anda akan muncul pada baris datatable di menu ruang kelas.
+- Jika pembuatan entitas Ruang Kelas berhasil maka data ruang kelas Anda akan muncul pada baris tabel di menu ruang kelas.
 
 ![Menu Ruang Kelas](/img/sekolah/data-master/success-ruang-kelas.png)
 
@@ -121,7 +121,7 @@ Masuk pada menu **Sekolah -> Personalia -> Data Staff/Guru**
 
 ![Menu Data Staff/Guru](/img/sekolah/personalia/menu-data-staff-guru.png)
 
-- Pada halaman datatable tekan tombol **Tambah Data Staff/Guru**
+- Pada tabel tekan tombol **Tambah Data Staff/Guru**
 
 ![Menu Data Staff/Guru](/img/sekolah/personalia/data-staff-guru.png)
 
@@ -144,7 +144,7 @@ Masuk pada menu **Sekolah -> Personalia -> Data Staff/Guru**
 
 :::
 
-- Jika pembuatan entitas Data Staff/Guru berhasil maka data staff/guru Anda akan muncul pada baris datatable di menu data staff/guru.
+- Jika pembuatan entitas Data Staff/Guru berhasil maka data staff/guru Anda akan muncul pada baris tabel di menu data staff/guru.
 
 ![Menu Data Staff/Guru](/img/sekolah/personalia/success-data-staff-guru.png)
 
@@ -156,7 +156,7 @@ Masuk pada menu **Sekolah -> Personalia -> Data Staff/Guru**
 
 ![Menu Import Staff/Guru](/img/sekolah/personalia/menu-data-siswa.png)
 
-- Pada halaman datatable tekan tombol **Tambah Impor Excel Staff/Guru**
+- Pada tabel tekan tombol **Tambah Impor Excel Staff/Guru**
 
 ![Menu Import Staff/Guru](/img/sekolah/personalia/data-staff-guru.png)
 
@@ -170,7 +170,7 @@ Format file Excel-nya bisa diunduh dari [sini](/file/staff_import.xlsx).
 
 ![Menu Data Staff/Guru](/img/sekolah/personalia/form-import-staff.png)
 
-- Jika pembuatan entitas Data Staff/Guru berhasil maka data staff/guru Anda akan muncul pada baris datatable di menu data staff/guru.
+- Jika pembuatan entitas Data Staff/Guru berhasil maka data staff/guru Anda akan muncul pada baris tabel di menu data staff/guru.
 
 ![Menu Data Staff/Guru](/img/sekolah/personalia/success-import-staff.png)
 
@@ -182,7 +182,7 @@ Masuk pada menu **Sekolah -> Personalia -> Data Siswa**
 
 ![Menu Data Siswa](/img/sekolah/personalia/menu-data-siswa.png)
 
-- Pada halaman datatable tekan tombol **Tambah Data Siswa**
+- Pada tabel tekan tombol **Tambah Data Siswa**
 
 ![Menu Data Siswa](/img/sekolah/personalia/data-siswa.png)
 
@@ -206,7 +206,7 @@ Masuk pada menu **Sekolah -> Personalia -> Data Siswa**
 
 :::
 
-- Jika pembuatan entitas Data Siswa berhasil maka data siswa Anda akan muncul pada baris datatable di menu data siswa.
+- Jika pembuatan entitas Data Siswa berhasil maka data siswa Anda akan muncul pada baris tabel di menu data siswa.
 
 ![Menu Data Siswa](/img/sekolah/personalia/success-data-siswa.png)
 
@@ -214,15 +214,15 @@ Masuk pada menu **Sekolah -> Personalia -> Data Siswa**
 
 ![Menu Data Siswa](/img/sekolah/personalia/biaya-khusus-siswa.png)
 
-- Pada halaman datatable tekan tombol **Tambah Biaya**
+- Pada tabel tekan tombol **Tambah Biaya**
 
-![Menu Data Siswa](/img/sekolah/personalia/datatable-biaya-khusus-siswa.png)
+![Menu Data Siswa](/img/sekolah/personalia/tabel-biaya-khusus-siswa.png)
 
 - Silahkan isi form biaya khusus siswa
 
 ![Menu Data Siswa](/img/sekolah/personalia/form-biaya-khusus-siswa.png)
 
-- Jika pembuatan entitas Biaya Khusus Siswa berhasil maka biaya khusus Anda akan muncul pada baris datatable di menu biaya khusus.
+- Jika pembuatan entitas Biaya Khusus Siswa berhasil maka biaya khusus Anda akan muncul pada baris tabel di menu biaya khusus.
 
 ![Menu Data Siswa](/img/sekolah/personalia/success-biaya-khusus-siswa.png)
 
@@ -247,7 +247,7 @@ Masuk pada menu **Sekolah -> Personalia -> Data Siswa**
 
 ![Menu Import Siswa](/img/sekolah/personalia/menu-data-siswa.png)
 
-- Pada halaman datatable tekan tombol **Tambah Impor Excel Siswa**
+- Pada tabel tekan tombol **Tambah Impor Excel Siswa**
 
 ![Menu Import Siswa](/img/sekolah/personalia/data-siswa.png)
 
@@ -261,7 +261,7 @@ Format file Excel-nya bisa diunduh dari [sini](/file/students_import.xlsx).
 
 ![Menu Import Siswa](/img/sekolah/personalia/form-import-siswa.png)
 
-- Jika impor Data Siswa berhasil maka data siswa Anda akan muncul pada baris datatable di menu data siswa.
+- Jika impor Data Siswa berhasil maka data siswa Anda akan muncul pada baris tabel di menu data siswa.
 
 ![Menu Import Siswa](/img/sekolah/personalia/success-import-siswa.png)
 
@@ -286,7 +286,7 @@ Masuk pada menu **Sekolah -> Data Kelas -> Penetapan Kelas**
 
 ![Menu Penetapan Kelas](/img/sekolah/data-kelas/menu-penetapan-kelas.png)
 
-- Pada halaman datatable tekan tombol **Tambah Data Kelas**
+- Pada tabel tekan tombol **Tambah Data Kelas**
 
 ![Menu Penetapan Kelas](/img/sekolah/data-kelas/penetapan-kelas.png)
 
@@ -294,7 +294,7 @@ Masuk pada menu **Sekolah -> Data Kelas -> Penetapan Kelas**
 
 ![Menu Penetapan Kelas](/img/sekolah/data-kelas/form-penetapan-kelas.png)
 
-- Jika pembuatan entitas Penetapan Kelas Siswa berhasil maka data penetapan kelas siswa Anda akan muncul pada baris datatable di menu data penetapan kelas siswa.
+- Jika pembuatan entitas Penetapan Kelas Siswa berhasil maka data penetapan kelas siswa Anda akan muncul pada baris tabel di menu data penetapan kelas siswa.
 
 ![Menu Penetapan Kelas](/img/sekolah/data-kelas/success-penetapan-kelas.png)
 
@@ -306,7 +306,7 @@ Masuk pada menu **Sekolah -> Data Kelas -> Penetapan Wali Kelas**
 
 ![Menu Penetapan Kelas](/img/sekolah/data-kelas/menu-penetapan-wali-kelas.png)
 
-- Pada halaman datatable tekan tombol **Opsi -> Tetapkan**
+- Pada tabel tekan tombol **Opsi -> Tetapkan**
 
 ![Menu Penetapan Kelas](/img/sekolah/data-kelas/penetapan-wali-kelas.png)
 
@@ -314,6 +314,6 @@ Masuk pada menu **Sekolah -> Data Kelas -> Penetapan Wali Kelas**
 
 ![Menu Penetapan Kelas](/img/sekolah/data-kelas/form-penetapan-wali-kelas.png)
 
-- Jika pembuatan entitas Penetapan Wali Kelas berhasil maka data penetapan wali kelas Anda akan muncul pada baris datatable di menu data penetapan wali kelas.
+- Jika pembuatan entitas Penetapan Wali Kelas berhasil maka data penetapan wali kelas Anda akan muncul pada baris tabel di menu data penetapan wali kelas.
 
 ![Menu Penetapan Kelas](/img/sekolah/data-kelas/success-penetapan-wali-kelas.png)

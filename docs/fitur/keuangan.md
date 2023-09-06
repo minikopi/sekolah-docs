@@ -28,7 +28,7 @@ Masuk pada menu **Keuangan -> Data Master -> Tipe Uang Sekolah**
 
 ![Menu Tipe Uang Sekolah](/img/keuangan/data-master/menu-tipe-uang-sekolah.png)
 
-- Pada halaman datatable tekan tombol **Tambah Tipe Uang Sekolah**
+- Pada tabel tekan tombol **Tambah Tipe Uang Sekolah**
 
 ![Menu Tipe Uang Sekolah](/img/keuangan/data-master/tipe-uang-sekolah.png)
 
@@ -42,7 +42,7 @@ Masuk pada menu **Keuangan -> Data Master -> Tipe Uang Sekolah**
 
 :::
 
-- Jika pembuatan entitas tipe uang sekolah berhasil maka data tipe uang sekolah Anda akan muncul pada baris datatable di menu tipe uang sekolah
+- Jika pembuatan entitas tipe uang sekolah berhasil maka data tipe uang sekolah Anda akan muncul pada baris tabel di menu tipe uang sekolah
 
 ![Menu Tipe Uang Sekolah](/img/keuangan/data-master/success-tipe-uang-sekolah.png)
 
@@ -54,7 +54,7 @@ Masuk pada menu **Keuangan -> Data master -> Uang Sekolah**
 
 ![Menu Uang Sekolah](/img/keuangan/data-master/menu-uang-sekolah.png)
 
-- Pada halaman datatable tekan tombol **Tambah Uang Sekolah**
+- Pada tabel tekan tombol **Tambah Uang Sekolah**
 
 ![Menu Uang Sekolah](/img/keuangan/data-master/uang-sekolah.png)
 
@@ -71,11 +71,11 @@ Masuk pada menu **Keuangan -> Data master -> Uang Sekolah**
 
 :::
 
-- Jika pembuatan entitas uang sekolah berhasil maka data uang sekolah Anda akan muncul pada baris datatable di menu uang sekolah
+- Jika pembuatan entitas uang sekolah berhasil maka data uang sekolah Anda akan muncul pada baris tabel di menu uang sekolah
 
 ![Menu Uang Sekolah](/img/keuangan/data-master/success-uang-sekolah.png)
 
-- Jika entitas uang sekolah berhasil disetujui dengan kesepakatan dari sekolah Anda, Setiap siswa akan ditetapkan dengan uang sekolah yang telah di setujui. Pada halaman datatable tekan tombol **Penerbitan Manual**
+- Jika entitas uang sekolah berhasil disetujui dengan kesepakatan dari sekolah Anda, Setiap siswa akan ditetapkan dengan uang sekolah yang telah di setujui. Pada tabel tekan tombol **Penerbitan Manual**
 
 ![Menu Uang Sekolah](/img/keuangan/data-master/approved-uang-sekolah.png)
 
@@ -95,7 +95,7 @@ Masuk pada menu **Keuangan -> Data master -> Dompet**
 
 ![Menu Dompet](/img/keuangan/data-master/menu-dompet.png)
 
-- Pada halaman datatable tekan tombol **Tambah Dompet**
+- Pada tabel tekan tombol **Tambah Dompet**
 
 ![Menu Dompet](/img/keuangan/data-master/dompet.png)
 
@@ -110,7 +110,7 @@ Masuk pada menu **Keuangan -> Data master -> Dompet**
 
 :::
 
-- Jika pembuatan entitas dompet berhasil maka data dompet sekolah Anda akan muncul pada baris datatable di menu dompet
+- Jika pembuatan entitas dompet berhasil maka data dompet sekolah Anda akan muncul pada baris tabel di menu dompet
 
 ![Menu Dompet](/img/keuangan/data-master/success-dompet.png)
 
@@ -122,7 +122,7 @@ Masuk pada menu **Keuangan -> Data master -> Metode Pembayaran**
 
 ![Menu Metode Pembayaran](/img/keuangan/data-master/menu-metode-pembayaran.png)
 
-- Pada halaman datatable tekan tombol **Tambah Metode Pembayaran**
+- Pada tabel tekan tombol **Tambah Metode Pembayaran**
 
 ![Menu Metode Pembayaran](/img/keuangan/data-master/metode-pembayaran.png)
 
@@ -137,7 +137,7 @@ Masuk pada menu **Keuangan -> Data master -> Metode Pembayaran**
 
 :::
 
-- Jika pembuatan entitas metode pembayaran berhasil maka data metode pembayaran sekolah Anda akan muncul pada baris datatable di menu metode pembayaran
+- Jika pembuatan entitas metode pembayaran berhasil maka data metode pembayaran sekolah Anda akan muncul pada baris tabel di menu metode pembayaran
 
 ![Menu Metode Pembayaran](/img/keuangan/data-master/success-metode-pembayaran.png)
 
@@ -172,7 +172,7 @@ Persetujuan Uang Sekolah adalah sub-modul di mana Anda dapat melakukan persetuju
 
 :::
 
-- Jika persetujuan atau penolakan entitas uang sekolaha maka data persetujuan atau penolakan uang sekolah Anda akan muncul di datatable **Data Master -> Uang Sekolah**.
+- Jika persetujuan atau penolakan entitas uang sekolaha maka data persetujuan atau penolakan uang sekolah Anda akan muncul di tabel **Data Master -> Uang Sekolah**.
 
 ![Menu Persetujuan Uang Sekolah](/img/keuangan/persetujuan/approved-reject-uang-sekolah.png)
 
@@ -194,7 +194,7 @@ Persetujuan Pengeluaran Biaya adalah sub-modul di mana Anda dapat melakukan pers
 
 :::
 
-- Jika pengajuan pengeluaran biaya tersebut disetujui ataupun ditolak, maka dapat dilihat pada datatable di menu **Transaksi -> Pengeluaran -> Pengeluaran Biaya**
+- Jika pengajuan pengeluaran biaya tersebut disetujui ataupun ditolak, maka dapat dilihat pada tabel di menu **Transaksi -> Pengeluaran -> Pengeluaran Biaya**
 
 ![Menu Persetujuan Uang Sekolah](/img/transaksi/pengeluaran/success-approved-pengeluaran-biaya.png)
 
@@ -224,6 +224,6 @@ Realisasi Pengeluaran biaya adalah sub-modul di mana Anda dapat melakukan realis
 
 ![Menu Realisasi Pengeluaran Biaya](/img/keuangan/realisasi/form-pengeluaran-biaya.png)
 
-- Jika realisasi pengeluaran biaya tersebut disetujui ataupun ditolak, maka dapat dilihat pada datatable di menu **Transaksi -> Pengeluaran -> Pengeluaran Biaya**
+- Jika realisasi pengeluaran biaya tersebut disetujui ataupun ditolak, maka dapat dilihat pada tabel di menu **Transaksi -> Pengeluaran -> Pengeluaran Biaya**
 
 ![Menu Realisasi Pengeluaran Biaya](/img/transaksi/pengeluaran/success-outgoing-pengeluaran-biaya.png)
