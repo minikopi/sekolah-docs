@@ -160,3 +160,16 @@ Index hak akses sistem sekolah tiap pengguna.
 | **Lainnya**        |
 | Keuangan Sekolah   |      ✅       |     ✅     |    ✅     |       ✅       |
 | Siswa              |      ✅       |     ✅     |    ✅     |       ✅       |
+
+## Konfigurasi
+
+| Fitur                     | Super Admin | Ops Admin | Admin Sekolah |  Bendahara   |
+| -------------------       | :---------: | :-------: | :-----------: | :--------: | 
+| **Konfigurasi Sempoa**    |    
+| Tulis                     |      ✅       |     ✅     |    ✅     |       ✅       |
+| Baca                      |      ✅       |     ✅     |    ✅     |       ✅       |
+| Ubah                      |      ✅       |     ✅     |    ✅     |       ✅       |
+| Hapus                     |      ✅       |     ✅     |    ❌     |       ❌       |
+| **Konfigurasi Dompet**    |    
+| Baca                      |      ✅       |     ✅     |    ✅     |       ✅       |
+| Ubah                      |      ✅       |     ✅     |    ✅     |       ✅       |
