@@ -216,7 +216,7 @@ Masuk pada menu **Sekolah -> Personalia -> Data Siswa**
 
 - Pada tabel tekan tombol **Tambah Biaya**
 
-![Menu Data Siswa](/img/sekolah/personalia/table-biaya-khusus-siswa.png)
+![Menu Data Siswa](/img/sekolah/personalia/datatable-biaya-khusus-siswa.png)
 
 - Silahkan isi form biaya khusus siswa
 
