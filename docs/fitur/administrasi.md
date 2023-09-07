@@ -226,7 +226,7 @@ Pada bagian **data siswa** terdapat 26 poin berurutan yang **wajib diisi** selur
 | Tanggal Lahir     | dd-mm-yyy                 | wajib                                          |
 | Agama             | Katolik                   | wajib                                          |
 | No Telp           | 081xxxxx                  | wajib                                          |
-| No KK             | 3989yyyy                  | wajib                                          |
+| No KK             | 3989yyyy                  | tidak wajib                                       |
 | **_NIK_**         | 3989zzzz                  | wajib                                          |
 | NISN              | 1234xxxx                  | tidak wajib                                    |
 | **_NIS_**         | 5678yyyy                  | wajib                                          |
