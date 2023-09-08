@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Tentang Sistem Manajemen Sekolah
 
-Sistem manajemen sekolah (SMS) adalah seperangkat proses dan alat yang digunakan untuk mengatur dan mengelola operasional sebuah sekolah. Tujuan utama dari sistem ini adalah untuk memastikan efisiensi, efektivitas, dan transparansi dalam kegiatan administrasi, akademik, dan operasional di sekolah.
+Sistem manajemen sekolah (Veritas) adalah seperangkat proses dan alat yang digunakan untuk mengatur dan mengelola operasional sebuah sekolah. Tujuan utama dari sistem ini adalah untuk memastikan efisiensi, efektivitas, dan transparansi dalam kegiatan administrasi, akademik, dan operasional di sekolah.
 
 Sistem manajemen sekolah mencakup berbagai komponen yang bekerja bersama untuk mengoptimalkan proses di sekolah. Beberapa komponen penting yang tercakup dalam sistem manajemen sekolah meliputi :
 

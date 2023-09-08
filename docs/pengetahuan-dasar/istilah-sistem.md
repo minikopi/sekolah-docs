@@ -6,9 +6,9 @@ sidebar_position: 2
 
 istilah yang akan ada dalam sistem yaitu :
 
-| Istilah              | Defenisi                                             |
+| Istilah              | Definisi                                             |
 | -------------------- | ---------------------------------------------------- |
-| SMS                  | Sistem Manajemen Sekolah                             |
+| Veritas              | Sistem Manajemen Sekolah                             |
 | Opsi                 | option untuk menampilkan menu edit,hapus dan lainnya |
 | aksi                 | kolom menu untuk tampilkan list dari opsi            |
 | dompet               | yang berisikan informasi dana dari sekolah           |
