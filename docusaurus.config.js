@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "SMS",
+  title: "Veritas",
   tagline: "School Management System",
   favicon: "img/favicon.ico",
 
@@ -64,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "SMS",
+        title: "Veritas",
         logo: {
           alt: "School Management System",
           src: "img/logo.svg",
@@ -75,11 +75,6 @@ const config = {
             sidebarId: "tutorialSidebar",
             position: "left",
             label: "Dokumentasi",
-          },
-          {
-            href: "https://github.com/minikopi/sekolah",
-            label: "GitHub",
-            position: "right",
           },
         ],
       },
@@ -96,29 +91,8 @@ const config = {
             ],
           },
           {
-            title: "Community",
-            items: [
-              {
-                label: "Stack Overflow",
-                href: "#",
-              },
-              {
-                label: "Discord",
-                href: "#",
-              },
-              {
-                label: "Twitter",
-                href: "#",
-              },
-            ],
-          },
-          {
             title: "More",
             items: [
-              {
-                label: "GitHub",
-                href: "https://github.com/minikopi/sekolah",
-              },
               {
                 label: "Sempoa",
                 href: "https://sempoa.id",
